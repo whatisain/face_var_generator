@@ -92,8 +92,16 @@ Key components in the JSON:
 
 ## 📂 Example
 
-Input and Output variations
-<img src="docs/input_example.jpg" width="600"> <img src="docs/output_variations.jpg" width="600">
+<table>
+  <tr>
+    <th>Input</th>
+    <th>Output variation</th>
+  </tr>
+  <tr>
+    <td><img src="docs/input_example.jpg" alt="Input" width="360"></td>
+    <td><img src="docs/output_variations.jpg" alt="Output variation" width="360"></td>
+  </tr>
+</table>
 
 ---
 
