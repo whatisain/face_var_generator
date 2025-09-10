@@ -90,6 +90,14 @@ Key components in the JSON:
 
 ---
 
+## 📂 Example
+
+Input: <img src="docs/input_example.jpg" width="600">
+
+Output variations: <img src="docs/output_variations.jpg" width="600">
+
+---
+
 ## ⚠️ Notes
 
 * Best results with **frontal, high-quality face photos**.
